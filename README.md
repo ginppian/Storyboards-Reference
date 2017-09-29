@@ -81,12 +81,20 @@ References Storyboards
 
 ## Manual 
 
+<p align="justify">
+	Si nos fijamos en nuestra <i>Librería de Objetos</i> veremos el objeto <b>Srotyboard Reference</b> ¡usemos lo!	
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img12.png" width="1280" height="550">
 </p>
 
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img13.png" width="1280" height="550">
+</p>
+
+<p align="justify">
+	Agregamos un segundo Storyboards
 </p>
 
 <p align="center">
@@ -97,6 +105,10 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img15.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Nuestro Second Storyboards no contiene ningun ViewController, agreguemosle un par
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img16.png" width="1280" height="550">
 </p>
@@ -105,12 +117,24 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img17.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Regresamos a Main Storyboards
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img18.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Ligamos nuestro ViewController a la <i>Referencia</i>
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img19.png" width="1280" height="550">
+</p>
+
+<p align="justify">
+	Seleccionamos Show
 </p>
 
 <p align="center">
@@ -121,6 +145,10 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img21.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Para asignarle un Storyboards lo seleccionamos y modificamos sus atributos desde el inspector
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img22.png" width="1280" height="550">
 </p>
@@ -129,28 +157,56 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img23.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Si construimos el proyecto fallará
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img24.png" width="1280" height="550">
+</p>
+
+<p align="justify">
+	Nos marca que Second Storyboards no sabe, con que ViewController iniciar
 </p>
 
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img25.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Nos regresamos a Secondstoryboards 
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img26.png" width="1280" height="550">
+</p>
+
+<p align="justify">
+	Seleccionamos nuestro ViewController A y desde el Inspector le ponemos: <i>is initial ViewController</i>
 </p>
 
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img27.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Volvemos a compilar
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img28.png" width="1280" height="550">
 </p>
 
+<p align="justify">
+	Éxito
+</p>
+
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img29.png" width="1280" height="550">
+</p>
+
+<p align="justify">
+	Podemos regresarnos a Main Storyboards y trabajar allí, si queremos ir a Second storyboards bastará con clickear la <i>Referencia</i> para ir a Second Storyboards
 </p>
 
 <p align="center">
@@ -166,31 +222,17 @@ References Storyboards
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img33.png" width="1280" height="550">
+	Para movernos desde código podemos checar el siguiente <a href="https://github.com/ginppian/Move-Between-Many-Storyboards">tutorial</a>
 </p>
 
-<p align="center">
-	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img34.png" width="1280" height="550">
-</p>
-
-<p align="center">
-	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img35.png" width="1280" height="550">
-</p>
-
-<p align="center">
-	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img36.png" width="1280" height="550">
-</p>
-
-<p align="center">
-	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img37.png" width="1280" height="550">
-</p>
-
-<p align="center">
-	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img38.png" width="1280" height="550">
-</p>
+## Corriendo el Proyecto desde un Storyboards Especifico
 
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img39.png" width="1280" height="550">
+</p>
+
+<p align="center">
+	Podremos ver todos los Storyboards
 </p>
 
 <p align="center">
@@ -202,7 +244,15 @@ References Storyboards
 </p>
 
 <p align="center">
+	Si corremos el App nos marcará un error porque no tenemos un <i>ViewController Inicial</i> asignado a nuestro Storyboards
+</p>
+
+<p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img42.png" width="1280" height="550">
+</p>
+
+<p align="center">
+	Nos regresamos y ponemos nuestro Storyboards B como <i>Initial ViewController</i>
 </p>
 
 <p align="center">
@@ -210,7 +260,17 @@ References Storyboards
 </p>
 
 <p align="center">
+	Corremos el proyecto y todo irá bien!!! =D
+</p>
+
+<p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img44.png" width="1280" height="550">
 </p>
+
+## Fuente
+
+* <a href="https://www.youtube.com/watch?v=PRXjmuRYQdY">How to Use Storyboard References to Boost Workflow</a>
+
+* <a href="https://useyourloaf.com/blog/refactoring-with-storyboard-references/">Refactoring with Storyboard References</a>
 
 
