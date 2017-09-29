@@ -213,10 +213,6 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img30.png" width="1280" height="550">
 </p>
 
-<p align="justify">
-	Seleccionamos Second Storyboards
-</p>
-
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img31.png" width="1280" height="550">
 </p>
@@ -245,6 +241,10 @@ References Storyboards
 
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img40.png" width="1280" height="550">
+</p>
+
+<p align="justify">
+	Seleccionamos Second Storyboards
 </p>
 
 <p align="center">
