@@ -221,7 +221,7 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img32.png" width="1280" height="550">
 </p>
 
-<p align="center">
+<p align="justify">
 	Para movernos desde código podemos checar el siguiente <a href="https://github.com/ginppian/Move-Between-Many-Storyboards">tutorial</a>
 </p>
 
@@ -231,7 +231,7 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img39.png" width="1280" height="550">
 </p>
 
-<p align="center">
+<p align="justify">
 	Podremos ver todos los Storyboards
 </p>
 
@@ -243,7 +243,7 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img41.png" width="1280" height="550">
 </p>
 
-<p align="center">
+<p align="justify">
 	Si corremos el App nos marcará un error porque no tenemos un <i>ViewController Inicial</i> asignado a nuestro Storyboards
 </p>
 
@@ -251,7 +251,7 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img42.png" width="1280" height="550">
 </p>
 
-<p align="center">
+<p align="justify">
 	Nos regresamos y ponemos nuestro Storyboards B como <i>Initial ViewController</i>
 </p>
 
@@ -259,7 +259,7 @@ References Storyboards
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img43.png" width="1280" height="550">
 </p>
 
-<p align="center">
+<p align="justify">
 	Corremos el proyecto y todo irá bien!!! =D
 </p>
 
