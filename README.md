@@ -222,10 +222,14 @@ References Storyboards
 </p>
 
 <p align="justify">
-	Para movernos desde código podemos checar el siguiente <a href="https://github.com/ginppian/Move-Between-Many-Storyboards">tutorial</a>
+	Para movernos desde código podemos checar el siguiente <a href="https://github.com/ginppian/Move-Between-Many-Storyboards">tutorial</a>.
 </p>
 
 ## Corriendo el Proyecto desde un Storyboards Especifico
+
+<p align="justify">
+	Con un sólo clic en el Nombre del Proyecto nos vamos a la configuración General
+</p>
 
 <p align="center">
 	<img src="https://github.com/ginppian/Storyboards-Reference/blob/master/imgs/img39.png" width="1280" height="550">
